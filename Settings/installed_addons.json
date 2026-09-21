@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "addons": [
+        {
+            "id": "com.polyphase.editor.levelbuilder.tool.core",
+            "version": "0.1.0",
+            "installed": "2026-09-21T04:47:39Z",
+            "repoUrl": "https://github.com/Polyphase-Labs/com.polyphase.editor.levelbuilder.tool.core",
+            "enabled": true,
+            "enableNative": true,
+            "nativeMode": "source",
+            "branch": "main",
+            "commit": "ffc167e0a5b8e4a09bc46b32e8701b4127c40e12",
+            "commitDate": "2026-09-04T18:39:51Z"
+        },
+        {
+            "id": "com.polyphase.editor.levelbuilder.core",
+            "version": "0.1.0",
+            "installed": "2026-09-21T04:47:40Z",
+            "repoUrl": "https://github.com/Polyphase-Labs/com.polyphase.editor.levelbuilder.core",
+            "enabled": true,
+            "enableNative": true,
+            "nativeMode": "source",
+            "branch": "main",
+            "commit": "47e49a189e92443716d2911fb387cafd83023294",
+            "commitDate": "2026-09-04T18:39:39Z"
+        }
+    ]
+}
