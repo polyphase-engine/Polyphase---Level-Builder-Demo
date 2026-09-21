@@ -1,0 +1,73 @@
+{
+    "kitName": "Example Dungeon Kit",
+    "pieces": [
+        {
+            "name": "Wall_4m",
+            "asset": "SM_Dungeon_Wall_4m",
+            "category": "Walls",
+            "size": [4.0, 3.0, 0.5],
+            "sockets": [
+                { "name": "Left",  "type": "Wall", "position": [-2.0, 0.0, 0.0], "rotation": [0.0,   0.0, 0.0] },
+                { "name": "Right", "type": "Wall", "position": [ 2.0, 0.0, 0.0], "rotation": [0.0, 180.0, 0.0] }
+            ]
+        },
+        {
+            "name": "Wall_Corner",
+            "asset": "SM_Dungeon_Wall_Corner",
+            "category": "Walls",
+            "size": [4.0, 3.0, 4.0],
+            "sockets": [
+                { "name": "South", "type": "Wall", "position": [ 0.0, 0.0,  2.0], "rotation": [0.0, 180.0, 0.0] },
+                { "name": "East",  "type": "Wall", "position": [ 2.0, 0.0,  0.0], "rotation": [0.0,  90.0, 0.0] }
+            ]
+        },
+        {
+            "name": "Floor_4x4",
+            "asset": "SM_Dungeon_Floor_4x4",
+            "category": "Floors",
+            "size": [4.0, 0.2, 4.0],
+            "sockets": [
+                { "name": "N", "type": "Floor", "position": [ 0.0, 0.0, -2.0], "rotation": [0.0,   0.0, 0.0] },
+                { "name": "S", "type": "Floor", "position": [ 0.0, 0.0,  2.0], "rotation": [0.0, 180.0, 0.0] },
+                { "name": "E", "type": "Floor", "position": [ 2.0, 0.0,  0.0], "rotation": [0.0,  90.0, 0.0] },
+                { "name": "W", "type": "Floor", "position": [-2.0, 0.0,  0.0], "rotation": [0.0, -90.0, 0.0] }
+            ]
+        },
+        {
+            "name": "DoorFrame",
+            "asset": "SM_Dungeon_DoorFrame",
+            "category": "Doors",
+            "size": [1.2, 2.4, 0.5],
+            "sockets": [
+                { "name": "Left",  "type": "Wall", "position": [-0.6, 0.0, 0.0], "rotation": [0.0,   0.0, 0.0] },
+                { "name": "Right", "type": "Wall", "position": [ 0.6, 0.0, 0.0], "rotation": [0.0, 180.0, 0.0] },
+                {
+                    "name": "Door",
+                    "type": "Door",
+                    "position": [0.0, 0.0, 0.0],
+                    "rotation": [0.0, 0.0, 0.0],
+                    "compatibleTypes": ["Door", "DoorFrame"]
+                }
+            ]
+        },
+        {
+            "name": "Pillar",
+            "asset": "SM_Dungeon_Pillar",
+            "category": "Props",
+            "size": [0.4, 3.0, 0.4],
+            "sockets": [
+                { "name": "Top",    "type": "Pillar", "position": [0.0, 3.0, 0.0], "rotation": [0.0, 0.0, 0.0] },
+                { "name": "Bottom", "type": "Pillar", "position": [0.0, 0.0, 0.0], "rotation": [0.0, 0.0, 0.0] }
+            ]
+        },
+        {
+            "name": "Wall Torch (Scene)",
+            "asset": "SCN_Dungeon_WallTorch",
+            "category": "Props",
+            "size": [0.3, 0.6, 0.3],
+            "sockets": [
+                { "name": "WallMount", "type": "Wall", "position": [0.0, 1.5, -0.15], "rotation": [0.0, 0.0, 0.0] }
+            ]
+        }
+    ]
+}

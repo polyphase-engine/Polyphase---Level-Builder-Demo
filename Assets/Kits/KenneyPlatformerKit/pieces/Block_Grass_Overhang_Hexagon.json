@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Overhang Hexagon",
+    "asset": "block-grass-overhang-hexagon",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-overhang-hexagon.png",
+    "size": [
+        1.100000023841858,
+        1.0,
+        1.2701703310012818
+    ]
+}

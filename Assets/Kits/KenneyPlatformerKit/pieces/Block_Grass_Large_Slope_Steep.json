@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Large Slope Steep",
+    "asset": "block-grass-large-slope-steep",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-large-slope-steep.png",
+    "size": [
+        2.082124948501587,
+        1.2165064811706544,
+        1.857050895690918
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Corner",
+    "asset": "block-grass-corner",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-corner.png",
+    "size": [
+        1.054436445236206,
+        1.0,
+        1.054436445236206
+    ]
+}

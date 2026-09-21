@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Low Large",
+    "asset": "block-grass-low-large",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-low-large.png",
+    "size": [
+        2.082124948501587,
+        0.5,
+        2.082124948501587
+    ]
+}

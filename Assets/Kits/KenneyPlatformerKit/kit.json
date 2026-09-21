@@ -1,0 +1,186 @@
+{
+    "kitName": "KenneyPlatformerKit",
+    "kitId": "synth.af6fbd77c9367ebd",
+    "pieces": [
+        {
+            "id": "K Platformercolormap",
+            "file": "pieces/K_Platformercolormap.json"
+        },
+        {
+            "id": "K Variation A",
+            "file": "pieces/K_Variation_A.json"
+        },
+        {
+            "id": "M KPlatformerColormap",
+            "file": "pieces/M_KPlatformerColormap.json"
+        },
+        {
+            "id": "SC Button Round",
+            "file": "pieces/SC_Button_Round.json"
+        },
+        {
+            "id": "Barrel",
+            "file": "pieces/Barrel.json"
+        },
+        {
+            "id": "Block Grass Corner Low",
+            "file": "pieces/Block_Grass_Corner_Low.json"
+        },
+        {
+            "id": "Block Grass Corner Overhang Low",
+            "file": "pieces/Block_Grass_Corner_Overhang_Low.json"
+        },
+        {
+            "id": "Block Grass Corner Overhang",
+            "file": "pieces/Block_Grass_Corner_Overhang.json"
+        },
+        {
+            "id": "Block Grass Corner",
+            "file": "pieces/Block_Grass_Corner.json"
+        },
+        {
+            "id": "Block Grass Curve Half",
+            "file": "pieces/Block_Grass_Curve_Half.json"
+        },
+        {
+            "id": "Block Grass Curve Low",
+            "file": "pieces/Block_Grass_Curve_Low.json"
+        },
+        {
+            "id": "Block Grass Curve",
+            "file": "pieces/Block_Grass_Curve.json"
+        },
+        {
+            "id": "Block Grass Edge",
+            "file": "pieces/Block_Grass_Edge.json"
+        },
+        {
+            "id": "Block Grass Hexagon",
+            "file": "pieces/Block_Grass_Hexagon.json"
+        },
+        {
+            "id": "Block Grass Large Slope Narrow",
+            "file": "pieces/Block_Grass_Large_Slope_Narrow.json"
+        },
+        {
+            "id": "Block Grass Large Slope Steep Narrow",
+            "file": "pieces/Block_Grass_Large_Slope_Steep_Narrow.json"
+        },
+        {
+            "id": "Block Grass Large Slope Steep",
+            "file": "pieces/Block_Grass_Large_Slope_Steep.json"
+        },
+        {
+            "id": "Block Grass Large Slope",
+            "file": "pieces/Block_Grass_Large_Slope.json"
+        },
+        {
+            "id": "Block Grass Large Tall",
+            "file": "pieces/Block_Grass_Large_Tall.json"
+        },
+        {
+            "id": "Block Grass Large",
+            "file": "pieces/Block_Grass_Large.json"
+        },
+        {
+            "id": "Block Grass Long",
+            "file": "pieces/Block_Grass_Long.json"
+        },
+        {
+            "id": "Block Grass Low Hexagon",
+            "file": "pieces/Block_Grass_Low_Hexagon.json"
+        },
+        {
+            "id": "Block Grass Low Large",
+            "file": "pieces/Block_Grass_Low_Large.json"
+        },
+        {
+            "id": "Block Grass Low Long",
+            "file": "pieces/Block_Grass_Low_Long.json"
+        },
+        {
+            "id": "Block Grass Low Narrow",
+            "file": "pieces/Block_Grass_Low_Narrow.json"
+        },
+        {
+            "id": "Block Grass Low",
+            "file": "pieces/Block_Grass_Low.json"
+        },
+        {
+            "id": "Block Grass Narrow",
+            "file": "pieces/Block_Grass_Narrow.json"
+        },
+        {
+            "id": "Block Grass Overhang Corner",
+            "file": "pieces/Block_Grass_Overhang_Corner.json"
+        },
+        {
+            "id": "Block Grass Overhang Edge",
+            "file": "pieces/Block_Grass_Overhang_Edge.json"
+        },
+        {
+            "id": "Block Grass Overhang Hexagon",
+            "file": "pieces/Block_Grass_Overhang_Hexagon.json"
+        },
+        {
+            "id": "Block Grass Overhang Large Slope Narrow",
+            "file": "pieces/Block_Grass_Overhang_Large_Slope_Narrow.json"
+        },
+        {
+            "id": "Block Grass Overhang Large Slope Steep Narrow",
+            "file": "pieces/Block_Grass_Overhang_Large_Slope_Steep_Narrow.json"
+        },
+        {
+            "id": "Block Grass Overhang Large Slope Steep",
+            "file": "pieces/Block_Grass_Overhang_Large_Slope_Steep.json"
+        },
+        {
+            "id": "Block Grass Overhang Large Slope",
+            "file": "pieces/Block_Grass_Overhang_Large_Slope.json"
+        },
+        {
+            "id": "Block Grass Overhang Large Tall",
+            "file": "pieces/Block_Grass_Overhang_Large_Tall.json"
+        },
+        {
+            "id": "Block Grass Overhang Large",
+            "file": "pieces/Block_Grass_Overhang_Large.json"
+        },
+        {
+            "id": "Block Grass Overhang Long",
+            "file": "pieces/Block_Grass_Overhang_Long.json"
+        },
+        {
+            "id": "Block Grass Overhang Low Hexagon",
+            "file": "pieces/Block_Grass_Overhang_Low_Hexagon.json"
+        },
+        {
+            "id": "Block Grass Overhang Low Large",
+            "file": "pieces/Block_Grass_Overhang_Low_Large.json"
+        },
+        {
+            "id": "Block Grass Overhang Low Long",
+            "file": "pieces/Block_Grass_Overhang_Low_Long.json"
+        },
+        {
+            "id": "Block Grass Overhang Low Narrow",
+            "file": "pieces/Block_Grass_Overhang_Low_Narrow.json"
+        },
+        {
+            "id": "Block Grass Overhang Low",
+            "file": "pieces/Block_Grass_Overhang_Low.json"
+        },
+        {
+            "id": "Block Grass Overhang Narrow",
+            "file": "pieces/Block_Grass_Overhang_Narrow.json"
+        },
+        {
+            "id": "Block Grass",
+            "file": "pieces/Block_Grass.json"
+        },
+        {
+            "id": "Chest",
+            "file": "pieces/Chest.json"
+        }
+    ]
+}

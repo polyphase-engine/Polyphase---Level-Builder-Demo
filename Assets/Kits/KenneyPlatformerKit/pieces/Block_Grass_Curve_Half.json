@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Curve Half",
+    "asset": "block-grass-curve-half",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-curve-half.png",
+    "size": [
+        1.0,
+        1.0,
+        1.0
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "kitName": "Prototype",
+    "pieces": [
+        {
+            "name": "Wall",
+            "asset": "wall",
+            "category": "Walls",
+            "icon": "Assets/Kits/Prototype/Previews/wall.png",
+            "size": [
+                0.20000000298023225,
+                1.0,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "Back",
+                    "type": "Wall",
+                    "position": [
+                        0.0,
+                        0.0,
+                        -0.5
+                    ]
+                },
+                {
+                    "name": "Front",
+                    "type": "Wall",
+                    "position": [
+                        0.0,
+                        0.0,
+                        0.5
+                    ],
+                    "rotation": [
+                        0.0,
+                        180.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wall Corner",
+            "asset": "wall-corner",
+            "category": "Walls",
+            "icon": "Assets/Kits/Prototype/Previews/wall-corner.png",
+            "size": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "East",
+                    "type": "Wall",
+                    "position": [
+                        2.0,
+                        0.0,
+                        0.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        90.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "South",
+                    "type": "Wall",
+                    "position": [
+                        0.0,
+                        0.0,
+                        2.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        180.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wall Corner (Low)",
+            "asset": "wall-corner-low",
+            "category": "Walls",
+            "icon": "Assets/Kits/Prototype/Previews/wall-corner-low.png",
+            "size": [
+                1.0,
+                0.5,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "East",
+                    "type": "WallLow",
+                    "position": [
+                        2.0,
+                        0.0,
+                        0.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        90.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "South",
+                    "type": "WallLow",
+                    "position": [
+                        0.0,
+                        0.0,
+                        2.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        180.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wall Corner (Rounded)",
+            "asset": "wall-corner-rounded",
+            "category": "Walls",
+            "icon": "Assets/Kits/Prototype/Previews/wall-corner-rounded.png",
+            "size": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "East",
+                    "type": "Wall",
+                    "position": [
+                        2.0,
+                        0.0,
+                        0.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        90.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "South",
+                    "type": "Wall",
+                    "position": [
+                        0.0,
+                        0.0,
+                        2.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        180.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wall Diagonal",
+            "asset": "wall-diagonal",
+            "category": "Walls",
+            "icon": "Assets/Kits/Prototype/Previews/wall-diagonal.png",
+            "size": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "NW",
+                    "type": "Wall",
+                    "position": [
+                        -2.0,
+                        0.0,
+                        -2.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        -45.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "SE",
+                    "type": "Wall",
+                    "position": [
+                        2.0,
+                        0.0,
+                        2.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        135.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wall Doorway",
+            "asset": "wall-doorway",
+            "category": "Doors",
+            "icon": "Assets/Kits/Prototype/Previews/wall-doorway.png",
+            "size": [
+                0.30000001192092898,
+                1.0,
+                1.0
+            ],
+            "sockets": [
+                {
+                    "name": "Left",
+                    "type": "Wall",
+                    "position": [
+                        -2.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "Right",
+                    "type": "Wall",
+                    "position": [
+                        2.0,
+                        0.0,
+                        0.0
+                    ],
+                    "rotation": [
+                        0.0,
+                        180.0,
+                        0.0
+                    ]
+                },
+                {
+                    "name": "Door",
+                    "type": "Door",
+                    "position": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "compatibleTypes": [
+                        "Door",
+                        "DoorFrame"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Coin",
+            "asset": "coin",
+            "category": "Props",
+            "icon": "Assets/Kits/Prototype/Previews/coin.png",
+            "size": [
+                0.11083336919546128,
+                0.2770833373069763,
+                0.27597498893737795
+            ]
+        }
+    ]
+}

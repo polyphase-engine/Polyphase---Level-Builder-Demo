@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Curve",
+    "asset": "block-grass-curve",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-curve.png",
+    "size": [
+        2.0,
+        1.0,
+        1.0
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Overhang Edge",
+    "asset": "block-grass-overhang-edge",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-overhang-edge.png",
+    "size": [
+        1.082124948501587,
+        1.0,
+        1.082124948501587
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Chest",
+    "asset": "SC_chest",
+    "category": "Chest",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/chest.png",
+    "size": [
+        1.0,
+        1.0,
+        1.0
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Corner Overhang",
+    "asset": "block-grass-corner-overhang",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-corner-overhang.png",
+    "size": [
+        1.054436445236206,
+        1.0,
+        1.054436445236206
+    ]
+}

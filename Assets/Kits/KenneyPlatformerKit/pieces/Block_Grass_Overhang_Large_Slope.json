@@ -1,0 +1,11 @@
+{
+    "name": "Block Grass Overhang Large Slope",
+    "asset": "block-grass-overhang-large-slope",
+    "category": "Block",
+    "icon": "Assets/Kits/KenneyPlatformerKit/Previews/block-grass-overhang-large-slope.png",
+    "size": [
+        2.082124948501587,
+        0.9143558740615845,
+        2.0822784900665285
+    ]
+}
