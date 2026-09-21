@@ -1,0 +1,15 @@
+{
+    "runtime": {
+        "version": "Lua 5.3"
+    },
+    "workspace": {
+        "library": [
+            "M:/Projects/Polyphase/Polyphase/CODE/mergePolyphase/polyphase-engine/Engine/Generated/LuaMeta"
+        ]
+    },
+    "diagnostics": {
+        "globals": [
+            "self"
+        ]
+    }
+}
